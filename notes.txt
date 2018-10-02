@@ -5,3 +5,4 @@ Latitude Distance documentation - http://answers.google.com/answers/threadview/i
 Converting XML to Hash Ruby - https://stackoverflow.com/questions/11139709/converting-from-xml-name-values-into-simple-hash
 forecast ruby github helper - https://github.com/darkskyapp/forecast-ruby
 darksky api - https://darksky.net/dev/docs#time-machine-request
+how to do API key - https://github.com/appacademy/curriculum/tree/master/full-stack-project/resources/ActiveStorageDemo
