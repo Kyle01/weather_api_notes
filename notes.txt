@@ -6,3 +6,40 @@ Converting XML to Hash Ruby - https://stackoverflow.com/questions/11139709/conve
 forecast ruby github helper - https://github.com/darkskyapp/forecast-ruby
 darksky api - https://darksky.net/dev/docs#time-machine-request
 how to do API key - https://github.com/appacademy/curriculum/tree/master/full-stack-project/resources/ActiveStorageDemo
+gps locations - https://www.pctmap.net/gps/
+
+
+Schema
+----
+User 
+    Email 
+    name 
+    miles hike in perfect conditions 
+
+trail
+    has points 
+    name 
+    Distance
+    elevation change 
+
+points
+    belongs to trail
+    has mile marker
+    has Latitude
+    has longtitude
+    has symbol 
+
+
+
+things to consider 
+-----
+Fires 
+Air pollution
+Avg number of rain days 
+High temp low temp of each day 
+Amount of snow melt 
+how much snow is left in the Sierra Nevada’s 
+Get averages of when fires start, when the first snow is, when the last snow day is 
+Pacific crest trail water source 
+Reddit pct resources 
+Hard code wild fire data 
