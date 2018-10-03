@@ -7,6 +7,10 @@ forecast ruby github helper - https://github.com/darkskyapp/forecast-ruby
 darksky api - https://darksky.net/dev/docs#time-machine-request
 how to do API key - https://github.com/appacademy/curriculum/tree/master/full-stack-project/resources/ActiveStorageDemo
 gps locations - https://www.pctmap.net/gps/
+logomaker - https://logomakr.com/ 
+stock photos - https://unsplash.com/
+stock photos - https://pixabay.com/en/
+stock photos - https://www.pexels.com/
 
 
 Schema
